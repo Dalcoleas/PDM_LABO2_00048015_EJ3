@@ -9,6 +9,8 @@
     <color name="red2">#F01A1A</color>
     <color name="red3">#F51A1A</color>
     <color name="red4">#FA1A1A</color>
+    <color name="red5">#FF1A1A</color>
+
 
     <color name="green">#2DB84E</color>
     <color name="green1">#2DBD4E</color>
@@ -16,6 +18,13 @@
     <color name="green3">#2DC74E</color>
     <color name="green4">#2DCC4E</color>
     <color name="green5">#2DD14E</color>
+
+    <color name="blue">#2844AF</color>
+    <color name="blue1">#2844B4</color>
+    <color name="blue2">#2844B9</color>
+    <color name="blue3">#2844BE</color>
+    <color name="blue4">#2844C3</color>
+    <color name="blue5">#2844C8</color>
 
 
 </resources>
