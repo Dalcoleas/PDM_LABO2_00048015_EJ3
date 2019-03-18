@@ -39,12 +39,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             case R.id.btn1:
                 btn.setBackgroundColor(getResources().getColor(red[new Random().nextInt(6)]));
-
+                break;
             case R.id.btn2:
                 btn1.setBackgroundColor(getResources().getColor(green[new Random().nextInt(6)]));
-
+                break;
             case R.id.btn3:
                 btn2.setBackgroundColor(getResources().getColor(blue[new Random().nextInt(6)]));
+                break;
         }
 
     }
